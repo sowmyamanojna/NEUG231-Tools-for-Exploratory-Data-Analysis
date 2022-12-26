@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Remove select folders from public view
+github/
+previous_year/
+class-git/02_FFT/eeg_data01.npz
+class-git/06_MutualInformation/eeg_data01.npz
+submission/sowmyamanojna_submission.zip
+submission/tutorials/02_FFT/eeg_data01.npz
+submission/tutorials/06_MutualInformation/eeg_data01.npz
