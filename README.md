@@ -1,0 +1,2 @@
+# NEUG231 Tools for Exploratory Data Analysis
+This repository contains all the material covered in the Exploratory Data Analysis (NEUG231) course, offered by Prof. John Serences, in the Fall 2022 quarter.
